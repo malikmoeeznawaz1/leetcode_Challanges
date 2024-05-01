@@ -11,7 +11,6 @@ public:
                     pre.push_back(word[i]);
                     flag = true;
                     break;
-        
             }
         }
         if(flag){
